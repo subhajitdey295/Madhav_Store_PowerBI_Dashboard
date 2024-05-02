@@ -11,5 +11,6 @@ Insights:
 ✅ Most of the payment transaction was done by Cash On Delivery.
 ✅ Maximum Printers(8.6K) were sold followed by Bookcases(6.5K) and Sarees(4.1K).
 
-Conclusion:
-To enhance the Madhav store's sales, it is recommended to target mainly women customers, particularly in Maharashtra, Madhya Pradesh & Uttar Pradesh in the sarees category. Also in general, they can target the Electronics market, especially in the Printers section to increase their sales by offering various ads, coupons, discounts, etc on e-commerce websites mostly in the months of January, February, March & November.
+Recommendations to enhance the Madhav store's sales:
+➡Target mainly women customers, particularly in Maharashtra, Madhya Pradesh & Uttar Pradesh in the sarees category. 
+➡Also in general, target the Electronics market, especially in the Printers section to increase their sales by offering various ads, coupons, discounts, etc on e-commerce websites mostly in January, February, March & November.
