@@ -1,4 +1,5 @@
 # Madhav_Store_PowerBI_Dashboard
+![Madhav Stores Dashboard](https://github.com/subhajitdey295/PowerBI_Madhav_Store/assets/73297451/0e917052-f653-42b3-a172-dc593115d072)
 
 Objective:
 The owner of Madhav Store wants to create a dashboard to track and analyze their online sales across India.
